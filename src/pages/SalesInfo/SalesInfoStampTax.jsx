@@ -56,10 +56,10 @@ const ComplexGuide1 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-       청주 더센트럴리티 - 인지세안내
+       가경 더센트럴리티 - 인지세안내
       </h1>
       <p className={styles.screenReaderOnly}>
-       청주 더센트럴리티의 인지세 안내 페이지는 분양과 관련된 세금
+       가경 더센트럴리티의 인지세 안내 페이지는 분양과 관련된 세금
         정보를 제공합니다. 인지세는 계약서 작성 시 부과되는 세금으로, 이를
         사전에 파악하고 준비하는 것이 중요합니다. 이 페이지에서는 인지세의 계산
         방법, 세액, 납부 절차 등을 쉽게 설명하여 고객들이 정확하게 준비할 수
@@ -75,7 +75,7 @@ const ComplexGuide1 = () => {
       {/* <img
         className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
         src={page1}
-        alt="청주 더센트럴리티인지세안내-image1"
+        alt="가경 더센트럴리티인지세안내-image1"
         onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
       /> */}
 

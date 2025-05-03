@@ -56,17 +56,17 @@ const ComplexGuide3 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        청주 더센트럴리티 - 커뮤니티
+        가경 더센트럴리티 - 커뮤니티
       </h1>
       <p className={styles.screenReaderOnly}>
-        청주 더센트럴리티의 커뮤니티 페이지에서는 단지 내 다양한 커뮤니티
+        가경 더센트럴리티의 커뮤니티 페이지에서는 단지 내 다양한 커뮤니티
         시설을 소개합니다. 헬스장, 독서실, 카페 등 주민들의 편리한 생활을 위한
         다양한 시설들이 준비되어 있습니다. 이러한 시설들이 입주민들의 삶의 질을
         높이고, 더 나은 공동체 생활을 만들어주는 역할을 합니다.
       </p>
 
       <div className={styles.textBox}>
-        <div>청주 더센트럴리티가 눈부신 가치 위에</div>
+        <div>가경 더센트럴리티가 눈부신 가치 위에</div>
         <div>새로운 자부심으로 찾아옵니다.</div>
       </div>
 
@@ -74,7 +74,7 @@ const ComplexGuide3 = () => {
       <img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="청주 더센트럴리티 커뮤니티 안내 -image1"
+				alt="가경 더센트럴리티 커뮤니티 안내 -image1"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/> *
 

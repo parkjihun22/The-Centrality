@@ -73,7 +73,7 @@ const FloorPlan5 = () => {
 			<img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="청주 더센트럴리티 119A 평면image"
+				alt="가경 더센트럴리티 119A 평면image"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

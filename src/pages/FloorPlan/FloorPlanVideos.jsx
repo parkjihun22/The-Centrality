@@ -65,13 +65,13 @@ const FloorPlanVideos= () => {
       <MenuBar contents={menuContents} />
 
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
-      <h1 className={styles.screenReaderOnly}>청주 더센트럴리티 - 홍보영상</h1>
-			<p className={styles.screenReaderOnly}>세대안내영상 안내 페이지는 청주 더센트럴리티의 각 아파트 세대안내영상를 제공합니다. 고객들이 아파트의 구조를 정확히 이해하고, 자신의 생활 스타일에 맞는 평형을 선택할 수 있도록 돕습니다. 다양한 평면 설계를 확인하고 자신에게 맞는 최적의 공간을 찾아보세요.
+      <h1 className={styles.screenReaderOnly}>가경 더센트럴리티 - 홍보영상</h1>
+			<p className={styles.screenReaderOnly}>세대안내영상 안내 페이지는 가경 더센트럴리티의 각 아파트 세대안내영상를 제공합니다. 고객들이 아파트의 구조를 정확히 이해하고, 자신의 생활 스타일에 맞는 평형을 선택할 수 있도록 돕습니다. 다양한 평면 설계를 확인하고 자신에게 맞는 최적의 공간을 찾아보세요.
 			</p>
 
 			<div className={styles.textBox}>
 				<div>청주의 눈부신 가치위에 찾아오는</div>
-				<div>청주 더센트럴리티의 가치를 영상으로 확인해보세요</div>
+				<div>가경 더센트럴리티의 가치를 영상으로 확인해보세요</div>
 			</div>
 
       {/* 두 번째 메뉴바 (탭 메뉴) */}

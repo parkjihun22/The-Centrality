@@ -53,20 +53,20 @@ const LocationEnvironment1 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        청주 더센트럴리티 - 프리미엄
+        가경 더센트럴리티 - 프리미엄
       </h1>
       <p className={styles.screenReaderOnly}>
-        청주 더센트럴리티의 차별화된 프리미엄을 만나보세요. 고급스러운
+        가경 더센트럴리티의 차별화된 프리미엄을 만나보세요. 고급스러운
         디자인, 첨단 기술이 결합된 설계, 입주민을 위한 특별한 혜택 등을 통해
-        청주 더센트럴리티만의 독보적인 가치를 제공합니다.
+        가경 더센트럴리티만의 독보적인 가치를 제공합니다.
       </p>
 
       <div className={styles.textBox}>
         <div>청주의 눈부신 가치 위에</div>
-        <div>청주 더센트럴리티의 새로운 자부심으로 찾아옵니다.</div>
+        <div>가경 더센트럴리티의 새로운 자부심으로 찾아옵니다.</div>
       </div>
 
-      <img src={page1} className={styles.image3} alt="청주 더센트럴리티프리미엄-image1" />
+      <img src={page1} className={styles.image3} alt="가경 더센트럴리티프리미엄-image1" />
  
 
       <Footer />

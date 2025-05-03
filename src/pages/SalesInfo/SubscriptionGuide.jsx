@@ -58,17 +58,17 @@ const ComplexGuide1 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        청주 더센트럴리티 - 체크포인트
+        가경 더센트럴리티 - 체크포인트
       </h1>
       <p className={styles.screenReaderOnly}>
-        청주 더센트럴리티 분양 전 필수 체크포인트를 확인하세요. 청약
+        가경 더센트럴리티 분양 전 필수 체크포인트를 확인하세요. 청약
         자격, 서류 준비, 일정 등 분양 절차에서 놓치지 말아야 할 중요한 사항들을
         정리해두었습니다. 정확한 정보와 절차를 통해 분양을 성공적으로 진행할 수
         있도록 돕습니다.
       </p>
 
       <div className={styles.textBox}>
-        <div>청주 더센트럴리티가 눈부신 가치 위에</div>
+        <div>가경 더센트럴리티가 눈부신 가치 위에</div>
         <div>새로운 자부심으로 찾아옵니다.</div>
       </div>
 
@@ -76,7 +76,7 @@ const ComplexGuide1 = () => {
       <img
         className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
         src={page1}
-        alt="청주 더센트럴리티청약체크포인트-image1"
+        alt="가경 더센트럴리티청약체크포인트-image1"
         onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
       />
 

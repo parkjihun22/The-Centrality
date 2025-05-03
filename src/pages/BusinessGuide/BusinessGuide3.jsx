@@ -69,7 +69,7 @@ const BusinessGuide2 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        청주 더센트럴리티- 계약서류안내
+        가경 더센트럴리티- 계약서류안내
       </h1>
       <p className={styles.screenReaderOnly}>
         계약서류안내 페이지지에서는 분양 당첨 후 필요한 서류들에 대해
@@ -80,10 +80,10 @@ const BusinessGuide2 = () => {
 
       <div className={styles.textBox}>
         <div>청주의 눈부신 가치 위에</div>
-        <div>청주 더센트럴리티의 새로운 자부심으로 찾아옵니다.</div>
+        <div>가경 더센트럴리티의 새로운 자부심으로 찾아옵니다.</div>
       </div>
 
-			<img className={`${styles.image4} ${isImageVisible ? styles.visible : ''}`} src={page1} alt="청주 더센트럴리티 계약서류안내-image1" />
+			<img className={`${styles.image4} ${isImageVisible ? styles.visible : ''}`} src={page1} alt="가경 더센트럴리티 계약서류안내-image1" />
 
 
       <Footer />

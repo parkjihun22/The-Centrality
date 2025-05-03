@@ -13,7 +13,7 @@ import { Helmet } from "react-helmet-async";
 
 
 const projectData = [
-	{ label: '사업명', value: '청주 더센트럴리티' },
+	{ label: '사업명', value: '가경 더센트럴리티' },
 	{ label: '사업위치', value: '경기 청주시 처인구 남사읍 아곡리 705번지 7BL' },
 	{ label: '대지면적', value: '106,050.4985㎡' },
 	{ label: '건축면적', value: '13,404.3638㎡' },
@@ -64,17 +64,17 @@ const BusinessGuide1 = () => {
 
 			<MenuBar contents={menuContents} />
 			{/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
-			<h1 className={styles.screenReaderOnly}>청주 더센트럴리티 - 사업안내</h1>
+			<h1 className={styles.screenReaderOnly}>가경 더센트럴리티 - 사업안내</h1>
 			<p className={styles.screenReaderOnly}>
-				청주 더센트럴리티는 혁신적인 주거 환경을 제공하는 새로운 아파트 단지입니다. 이 페이지에서는 프로젝트의 전체적인 개요와 개발 계획을 상세히 소개합니다. 사업의 목적, 주요 설계 및 특징, 그리고 주변 환경을 포함한 다양한 정보를 통해 입주자들에게 더 나은 선택을 할 수 있도록 돕습니다.
+				가경 더센트럴리티는 혁신적인 주거 환경을 제공하는 새로운 아파트 단지입니다. 이 페이지에서는 프로젝트의 전체적인 개요와 개발 계획을 상세히 소개합니다. 사업의 목적, 주요 설계 및 특징, 그리고 주변 환경을 포함한 다양한 정보를 통해 입주자들에게 더 나은 선택을 할 수 있도록 돕습니다.
 			</p>
 
 			<div className={styles.textBox}>
 				<div>특별한 라이프 컬렉션</div>
-				<div>청주 더센트럴리티의 새로운 자부심으로 찾아옵니다.</div>
+				<div>가경 더센트럴리티의 새로운 자부심으로 찾아옵니다.</div>
 			</div>
 
-			<img className={styles.img3} src={page1} alt="청주 더센트럴리티-image1"/>
+			<img className={styles.img3} src={page1} alt="가경 더센트럴리티-image1"/>
 
 			<div className={styles.tableContainer}>
 				{!isMobile && <img className={styles.tableImg} src={tableImage} />}

@@ -196,19 +196,19 @@ const Main = () => {
             <img
               src={mainImage}
               className={styles.mainImage}
-              alt="청주 더센트럴리티-mainimage1"
+              alt="가경 더센트럴리티-mainimage1"
             />
             <div className={styles.overlay}></div>
             <div className={styles.mainImageTextBox}>
               <div className={styles.mainImageTextSub}>
-                브랜드 평판 1위 청주 더센트럴리티{" "}
+                브랜드 평판 1위 가경 더센트럴리티{" "}
                 <span className={styles.greyText}>브랜드 프리미엄</span>
               </div>
               <div className={styles.mainImageTitleBox}>
                 <div className={styles.mainImageText}>청주이 기다린</div>
                 <div className={styles.mainImageLine}></div>
                 <div className={styles.mainImageText}>
-                  청주 더센트럴리티
+                  가경 더센트럴리티
                 </div>
                
               </div>
@@ -220,7 +220,7 @@ const Main = () => {
                   <img
                     src={subpinkimg}
                     className={styles.subPinkImg}
-                    alt="청주 더센트럴리티 관심고객등록 사진"
+                    alt="가경 더센트럴리티 관심고객등록 사진"
                   />
                 </button>
               </div>
@@ -239,7 +239,7 @@ const Main = () => {
                   - 청주 중심상업지구 매우인접 <br />
                   - 첨단 아주대학교 종합병원 도보 5분 <br />
                   - 청주 지제역 1호선, STR, KTX, GTX-A · C 확정으로 펜타역세권{" "}
-                  <br />- 모두를 누리는 청주 더센트럴리티
+                  <br />- 모두를 누리는 가경 더센트럴리티
                 </div>
                 <div className={styles.text4}>
                   <a
@@ -256,7 +256,7 @@ const Main = () => {
               <div className={styles.menuBox}>
                 <img
                   src={section1_Image1}
-                  alt="청주 더센트럴리티 브랜드소개-image2"
+                  alt="가경 더센트럴리티 브랜드소개-image2"
                 />
                 <Link to="/Brand/video" className={styles.btn}>
                   브랜드 소개 {">"}
@@ -270,17 +270,17 @@ const Main = () => {
               <div className={styles.textBox}>
                 <div className={styles.title}>
                   소수만 누릴 수 있는<br />
-                  <span>최고의 브랜드 아파트<br /> 청주 더센트럴리티</span>
+                  <span>최고의 브랜드 아파트<br /> 가경 더센트럴리티</span>
                 </div>
                 <div className={styles.subTitle}>
                   <div className={styles.textLine}></div>
                   <div className={styles.subText}>
                     찬란한 비전에 완벽한 주거가치까지 더해<br />
-                    청주 더센트럴리티가 함께합니다
+                    가경 더센트럴리티가 함께합니다
                   </div>
                 </div>
               </div>
-              <img src={section8Img3} alt="청주 더센트럴리티 입지환경소개-image2" />
+              <img src={section8Img3} alt="가경 더센트럴리티 입지환경소개-image2" />
             </div>
           </div>
 
@@ -293,7 +293,7 @@ const Main = () => {
                 <div className={`${styles.text2} fadeUpRepeat`}>
                   기대한 모든 프리미엄이
                   <br />
-                  청주 더센트럴리티에서 펼쳐집니다
+                  가경 더센트럴리티에서 펼쳐집니다
                 </div>
                 <div className={`${styles.text3} fadeUpRepeat`}>
                   SPECIAL PLAN
@@ -313,7 +313,7 @@ const Main = () => {
               </div>
               <img
                 src={section2_Image1}
-                alt="청주 더센트럴리티아파트 조감도-image3"
+                alt="가경 더센트럴리티아파트 조감도-image3"
               />
             </div>
           </div>
@@ -337,8 +337,8 @@ const Main = () => {
           <div className={styles.section}>
             <div className={styles.section4}>
               <div className={styles.imageBox}>
-                <img src={section4_Image1} alt="청주 더센트럴리티 브랜드소개-image4" />
-                <div className={styles.text1}>청주 더센트럴리티</div>
+                <img src={section4_Image1} alt="가경 더센트럴리티 브랜드소개-image4" />
+                <div className={styles.text1}>가경 더센트럴리티</div>
                 <div className={styles.text2}>THE NATURAL NOBILITY</div>
                 <div className={styles.text3}>당신의 삶, 그 고귀함이 계속되길</div>
               </div>
@@ -356,7 +356,7 @@ const Main = () => {
   {/* 상단 타이틀 영역 (좌: 제목/부제, 우: 안내문구) */}
   <div className={styles.pcTitleRow}>
     <div className={styles.leftTitle}>
-      <h2>청주 더센트럴리티</h2>
+      <h2>가경 더센트럴리티</h2>
       <p>방문예약</p>
     </div>
     <div className={styles.rightText}>
@@ -415,18 +415,18 @@ const Main = () => {
             <div className={styles.section9}>
               <div className={styles.textBox}>
                 <div className={styles.title}>
-                청주 더센트럴리티<br />
+                가경 더센트럴리티<br />
                   <span>견본주택 오시는길</span>
                 </div>
                 <div className={styles.subTitle}>
                   <div className={styles.textLine}></div>
                   <div className={styles.subText}>
                     찬란한 비전에 완벽한 주거가치까지 더해<br />
-                    청주 더센트럴리티가 함께합니다
+                    가경 더센트럴리티가 함께합니다
                   </div>
                 </div>
               </div>
-              <img src={map1} alt="청주 더센트럴리티 오시는길안내-image1" />
+              <img src={map1} alt="가경 더센트럴리티 오시는길안내-image1" />
             </div>
           </div> */}
 
@@ -473,20 +473,20 @@ const Main = () => {
             <img
               src={mobileImageMain}
               className={styles.mainImage}
-              alt="청주 더센트럴리티 mobilemain-image1"
+              alt="가경 더센트럴리티 mobilemain-image1"
             />
             <div className={styles.overlay}></div>
             <div className={styles.mainImageTextBox1}>
               <div className={styles.mainImageTextSub1}>
                 반도체클러스터에서의 첫 시작<br/>
-                브랜드 평판 1위 청주 더센트럴리티
+                브랜드 평판 1위 가경 더센트럴리티
                 <br />
                 <span className={styles.greyText1}>브랜드 프리미엄 </span>
                 <br />
               </div>
               <div className={styles.mainImageTitleBox1}>
                 <div className={styles.mainImageText1}>
-                  청주 더센트럴리티
+                  가경 더센트럴리티
                 </div>
 
               </div>
@@ -534,13 +534,13 @@ const Main = () => {
                 <div className={styles.subText}>
                   완벽한 비전중심에서 완벽한 주거가치까지 더해
                   <br />
-                  청주 더센트럴리티가 함께합니다
+                  가경 더센트럴리티가 함께합니다
                 </div>
               </div>
             </div>
             <img
               src={section8Img3}
-              alt="청주 더센트럴리티 mobile입지안내-image1"
+              alt="가경 더센트럴리티 mobile입지안내-image1"
             />
           </div>
 
@@ -552,19 +552,19 @@ const Main = () => {
               <div className={`${styles.text2} fadeUpRepeat`}>
                 기대한 모든 프리미엄이
                 <br />
-                청주 더센트럴리티에서 펼쳐집니다
+                가경 더센트럴리티에서 펼쳐집니다
               </div>
               <div className={`${styles.text3} fadeUpRepeat`}>SPECIAL PLAN</div>
               <div className={`${styles.text4} fadeUpRepeat`}>
                 살수록 자부심이 차원이 다른
                 <br />
-                프리미엄 주거라이프를 청주 더센트럴리티 <br />
+                프리미엄 주거라이프를 가경 더센트럴리티 <br />
                 모델하우스에서 확인하세요
               </div>
             </div>
             <img
               src={section2_Image1}
-              alt="청주 더센트럴리티 mobile조감도-image1"
+              alt="가경 더센트럴리티 mobile조감도-image1"
             />
           </div>
 
@@ -594,7 +594,7 @@ const Main = () => {
             <div>
               <img
                 src={section1_Image1}
-                alt="청주 더센트럴리티 브랜드소개 mobile-image5"
+                alt="가경 더센트럴리티 브랜드소개 mobile-image5"
               />
               <Link to="/Brand/intro" className={styles.btn}>
                 브랜드 소개 {">"}
@@ -604,13 +604,13 @@ const Main = () => {
 
           {/* <div className={styles.section}>
             <div className={styles.section9}>
-              <img src={mobilemap1} alt="청주 더센트럴리티 오시는길안내-mobileimage2" />
+              <img src={mobilemap1} alt="가경 더센트럴리티 오시는길안내-mobileimage2" />
             </div>
           </div> */}
 
           {/* 모바일 방문예약 섹션 */}
 <div className={styles.mobileVisitContainer}>
-  <h2>청주 더센트럴리티</h2>
+  <h2>가경 더센트럴리티</h2>
   <p className={styles.mobileSubTitle}>방문예약</p>
   <p className={styles.mobileInfoText}>
     방문예약 등록 시 모델하우스 주소 SMS발송 및<br />
