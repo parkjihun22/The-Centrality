@@ -21,7 +21,7 @@ const InterestPopup = ({ onClose, registration, handleInputChange }) => {
 
       if (response.ok) {
         setSuccessMessage(
-          "등록이 완료되었습니다. <br /> 전문상담원이 확인즉시 연락드리도록 하겠습니다."
+          "전문상담원이 확인즉시 연락드리도록 하겠습니다."
         );
       } else {
         setSuccessMessage("등록에 실패했습니다. 다시 시도해주세요.");
