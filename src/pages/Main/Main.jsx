@@ -47,8 +47,8 @@ const section3Contents = [
   {
     imgSrc: section3_Image1,
     title: "PREMIUM 01",
-    text1: `660세대 랜드마크 현대건설`,
-    text2: `청주을 대표할<br />
+    text1: `지하6층~ 최고 47층까지`,
+    text2: `청주를 대표할<br />
 			      브랜드 프리미엄`,
     link: "/BusinessGuide/intro",
     linkText: "더 알아보기 >",
@@ -205,7 +205,7 @@ const Main = () => {
                 <span className={styles.greyText}>브랜드 프리미엄</span>
               </div>
               <div className={styles.mainImageTitleBox}>
-                <div className={styles.mainImageText}>청주이 기다린</div>
+                <div className={styles.mainImageText}>청주가 기다린</div>
                 <div className={styles.mainImageLine}></div>
                 <div className={styles.mainImageText}>
                   가경 더센트럴리티
@@ -478,10 +478,10 @@ const Main = () => {
             <div className={styles.overlay}></div>
             <div className={styles.mainImageTextBox1}>
               <div className={styles.mainImageTextSub1}>
-                반도체클러스터에서의 첫 시작<br/>
-                브랜드 평판 1위 가경 더센트럴리티
+                최고높이 47층 초고층 높이<br/>
+                청주의 중심입지에 찾아옵니다
                 <br />
-                <span className={styles.greyText1}>브랜드 프리미엄 </span>
+                <span className={styles.greyText1}>1차 한달만에 100% 완판</span>
                 <br />
               </div>
               <div className={styles.mainImageTitleBox1}>
