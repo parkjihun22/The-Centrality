@@ -87,7 +87,7 @@ const Footer = () => {
           {/* 시행사/시공사 */}
           <div className={styles.mobileCompany}>
             <div>
-              <strong>시&nbsp;공&nbsp;사</strong> (주)현대건설
+              <strong>시&nbsp;공&nbsp;사</strong> (주)포스코
             </div>
           </div>
 
@@ -143,7 +143,7 @@ const Footer = () => {
               </div>
               <div className={styles.companyInfo}>
                 <div>
-                  <strong>시&nbsp;공&nbsp;사</strong> (주)현대건설 
+                  <strong>시&nbsp;공&nbsp;사</strong> (주)포스코
                 </div>
               </div>
               <div className={styles.buttonRow}>
