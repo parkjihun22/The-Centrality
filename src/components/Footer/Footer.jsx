@@ -16,7 +16,6 @@ const partnerSites = [
   { name: "평택 브레인시티 푸르지오", url: "https://eliasart.kr/" },
   { name: "군산 경장동 중해마루힐", url: "https://www.cssdesign.kr/" },
   { name: "창원 자이위브", url: "https://www.cssdesign.kr/" },
-  { name: "가경더센트럴리티", url: "https://www.marvelpartners.co.kr" },
   { name: "대전 쌍용 더플래티넘", url: "https://intercs.co.kr/" },
   { name: "용인 푸르지오 원클러스터2단지", url: "https://www.beyinegzersizi.com" },
   { name: "구미 로제비앙 메가시티", url: "https://www.leecols.kr" },
