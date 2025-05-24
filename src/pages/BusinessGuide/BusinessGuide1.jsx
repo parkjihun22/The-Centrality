@@ -13,14 +13,14 @@ import { Helmet } from "react-helmet-async";
 
 
 const projectData = [
-	{ label: '사업명', value: '가경 더센트럴리티' },
-	{ label: '사업위치', value: '경기 청주시 처인구 남사읍 아곡리 705번지 7BL' },
-	{ label: '대지면적', value: '106,050.4985㎡' },
-	{ label: '건축면적', value: '13,404.3638㎡' },
-	{ label: '연면적', value: '376,069.7623㎡' },
-	{ label: '용적률', value: '229.55%' },
-	{ label: '건축규모', value: 'B2-27F, 7개동' },
-	{ label: '세대수', value: '660세대 / 84㎡A·B·C / 109㎡A·B·C / 132㎡A / 150㎡PA·PB·PC / 182㎡P' },
+	{ label: '사업명', value: '청주시 흥덕구 가경동 1017번지 일원 주상복합신축공사' },
+	{ label: '사업위치', value: '충청북도 청주시 흥덕구 가경동 1017번지 일원' },
+	{ label: '대지면적', value: '5,601.00㎡ (1,694.3py)' },
+	{ label: '건축면적', value: '2,511.0594㎡ (759.6py)' },
+	{ label: '연면적', value: ' 44,531.6797㎡ (13,470.8py)' },
+	{ label: '건폐율/용적률', value: ' 45.20% / 801.51%' },
+	{ label: '건축규모', value: '지하6층~ 지상46층APT2개동 298세대, O/P 1개동75실' },
+	{ label: '공급방식', value: '일반분양형 민간임대 (10년) / 내집마련계약' },
 ];
 
 const BusinessGuide1 = () => {
