@@ -5,20 +5,15 @@ import room84A from "../../assets/UnitplanBox/page1.jpg";
 import room84B from "../../assets/UnitplanBox/page2.jpg";
 import room84C from "../../assets/UnitplanBox/page3.jpg";
 import room109A from "../../assets/UnitplanBox/page4.jpg";
-import room109B from "../../assets/UnitplanBox/page5.jpg";
-import room109C from "../../assets/UnitplanBox/page6.jpg";
-import room132A from "../../assets/UnitplanBox/page7.jpg";
+
 import { useMediaQuery } from "react-responsive";
 
 
 const contents = [
     { type: '84A', src: room84A },
     { type: '84B', src: room84B },
-    { type: '84C', src: room84C },
-    { type: '109A', src: room109A },
-    { type: '109B', src: room109B },
-    { type: '109C', src: room109C },
-    { type: '132A', src: room132A },
+    { type: '84OA', src: room84C },
+    { type: '84OB', src: room109A },
 
 
 

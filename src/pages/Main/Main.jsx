@@ -47,8 +47,8 @@ const section3Contents = [
   {
     imgSrc: section3_Image1,
     title: "PREMIUM 01",
-    text1: `지하6층~ 최고 47층까지`,
-    text2: `청주를 대표할<br />
+    text1: `청주의 핵심인프라와 상업지구 바로 옆`,
+    text2: `청주의 중심을 누리는 입지<br />
 			      브랜드 프리미엄`,
     link: "/BusinessGuide/intro",
     linkText: "더 알아보기 >",
@@ -56,9 +56,9 @@ const section3Contents = [
   {
     imgSrc: section3_Image2,
     title: "PREMIUM 02",
-    text1: `여유로운 직주근접 단지`,
-    text2: `첨단 시스템반도체 국가산업단지(계획)<br />
-			      청주 반도체클러스터 일반산업단지 등`,
+    text1: `청주 최대 대규모 주거 인프라`,
+    text2: `커넥트 현대(예정), 백화점<br />
+			      대형상권과 학세권 등`,
     link: "/LocationEnvironment/intro",
     linkText: "더 알아보기 >",
   },
@@ -66,7 +66,7 @@ const section3Contents = [
     imgSrc: section3_Image3,
     title: "PREMIUM 03",
     text1: `우수한 교육환경`,
-    text2: `바로 앞 처인초·중교, 처인고교<br />
+    text2: `바로 앞 초 · 중교 등 <br />
 			      학원가 조성등 원스톱 안심교육 환경`,
     link: "/LocationEnvironment/intro",
     linkText: "더 알아보기 >",
@@ -74,9 +74,9 @@ const section3Contents = [
   {
     imgSrc: section3_Image4,
     title: "PREMIUM 04",
-    text1: `브랜드 프리미엄`,
-    text2: `베스트 아파트 브랜드 2년 연속 1위,<br />
-			      브랜드 평판 71개월 1위 브랜드 프리미엄`,
+    text1: `청약통장, 자격조건 X`,
+    text2: `청약제한,전매제한,세금부담도 없어,<br />
+			      만 19세이상 자유롭게 가능`,
     link: "/LocationEnvironment/primium",
     linkText: "더 알아보기 >",
   },

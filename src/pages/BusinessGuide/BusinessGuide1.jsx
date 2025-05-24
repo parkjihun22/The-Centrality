@@ -26,8 +26,8 @@ const projectData = [
 const BusinessGuide1 = () => {
 	const menuContents = [
 		{ title: "사업안내", url: "/BusinessGuide/intro" },
-		{ title: "분양일정", url: "/BusinessGuide/plan" },
-		{ title: "공급안내", url: "/BusinessGuide/documents" }
+		// { title: "분양일정", url: "/BusinessGuide/plan" },
+		// { title: "공급안내", url: "/BusinessGuide/documents" }
 	];
 	const [isScroll, setIsScroll] = useState(false);
 	const { pathname } = useLocation(); // 현재 경로를 가져옴

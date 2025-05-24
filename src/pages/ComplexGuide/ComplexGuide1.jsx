@@ -15,7 +15,7 @@ const ComplexGuide1 = () => {
   const menuContents = [
     { title: "단지 배치도", url: "/ComplexGuide/intro" },
     { title: "호수 배치도", url: "/ComplexGuide/detailintro" },
-    { title: "커뮤니티", url: "/ComplexGuide/community" },
+    // { title: "커뮤니티", url: "/ComplexGuide/community" },
   ];
   const [isScroll, setIsScroll] = useState(false);
   const [isImage2Loaded, setIsImage2Loaded] = useState(false); // 이미지 로딩 상태 추가

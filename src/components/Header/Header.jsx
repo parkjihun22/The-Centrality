@@ -25,18 +25,18 @@ const menuArray = [
     title: "사업개요",
     subMenu: [
       { subTitle: "사업안내", subUrl: "/BusinessGuide/intro" },
-      { subTitle: "분양일정", subUrl: "/BusinessGuide/plan" },
-      { subTitle: "공급안내", subUrl: "/BusinessGuide/documents" },
+      // { subTitle: "분양일정", subUrl: "/BusinessGuide/plan" },
+      // { subTitle: "공급안내", subUrl: "/BusinessGuide/documents" },
     ],
   },
-  {
-    title: "분양안내",
-    subMenu: [
-      { subTitle: "공급안내", subUrl: "/SalesInfo/guide" },
-      { subTitle: "체크포인트", subUrl: "/SalesInfo/SubscriptionGuide" },
+  // {
+  //   title: "분양안내",
+  //   subMenu: [
+  //     { subTitle: "공급안내", subUrl: "/SalesInfo/guide" },
+  //     { subTitle: "체크포인트", subUrl: "/SalesInfo/SubscriptionGuide" },
 
-    ],
-  },
+  //   ],
+  // },
   {
     title: "입지환경",
     subMenu: [
@@ -50,7 +50,7 @@ const menuArray = [
     subMenu: [
       { subTitle: "단지 배치도", subUrl: "/ComplexGuide/intro" },
       { subTitle: "호수 배치도", subUrl: "/ComplexGuide/detailintro" },
-      { subTitle: "커뮤니티", subUrl: "/ComplexGuide/community" },
+      // { subTitle: "커뮤니티", subUrl: "/ComplexGuide/community" },
     ],
   },
   {
@@ -58,21 +58,18 @@ const menuArray = [
     subMenu: [
       { subTitle: "84A", subUrl: "/FloorPlan/59A" },
       { subTitle: "84B", subUrl: "/FloorPlan/59B" },
-      { subTitle: "84C", subUrl: "/FloorPlan/84A" },
-      { subTitle: "109A", subUrl: "/FloorPlan/84B" },
-      { subTitle: "109B", subUrl: "/FloorPlan/114A" },
-      { subTitle: "109C", subUrl: "/FloorPlan/114B" },
-      { subTitle: "132A", subUrl: "/FloorPlan/114C" },
+      { subTitle: "84OA", subUrl: "/FloorPlan/84A" },
+      { subTitle: "84OB", subUrl: "/FloorPlan/84B" },
     ],
   },
-  {
-    title: "인테리어",
-    subMenu: [
-      { subTitle: "84A", subUrl: "/Interior/59A" },
-      { subTitle: "119A", subUrl: "/Interior/84A" },
-      { subTitle: "119B", subUrl: "/Interior/84B" },
-    ],
-  },
+  // {
+  //   title: "인테리어",
+  //   subMenu: [
+  //     { subTitle: "84A", subUrl: "/Interior/59A" },
+  //     { subTitle: "119A", subUrl: "/Interior/84A" },
+  //     { subTitle: "119B", subUrl: "/Interior/84B" },
+  //   ],
+  // },
 ];
 
 const Header = () => {
